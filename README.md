@@ -14,4 +14,6 @@ color symbols are mentioned in each center of side in preview window.
 
 as you may see GREEN will be in CENTRE.
 
+Once you get the solution window press any key to continue.
+
 
